@@ -41,7 +41,7 @@ Linkedin:https://www.linkedin.com/in/emmanuel-sivhugwana-b28a172a3/overlay/about
 
 
 
-leetcode:https://leetcode.com/u/Emmanxy
+leetcode:
 ---
 
 ### 🏆 GitHub Highlights  
