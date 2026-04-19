@@ -1,7 +1,7 @@
 ## 🧑‍💻 Emmanuel Sivhuwana
 
 **Software Engineer | Problem Solver**
-From Limpopo 🇿🇦 | 2nd-Year (2025) Computer Science & Mathematics Student at **University of Zululand**
+From Limpopo 🇿🇦 | 3rd-Year (2026) Applied Mathematics and Computer Science  Student at **University of Zululand**
 
 ---
 
